@@ -1,0 +1,39 @@
+body{
+    background-color:  hsl(217, 76%, 90%);
+    text-align: center;
+}
+.img{
+    width: 190px;
+    height: 190px;
+    border-radius: 10px;
+    margin-top: 15px;
+
+}
+.p1{
+    font-family: "Outfit";
+    width: 176px;
+    text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.p2{
+    width: 80%; 
+    text-align:center;
+    color: grey;
+    font-size: 0.7rem;
+    margin-left: 20px;
+    font-family: "Outfit";
+}
+div{
+    background-color: white;
+    width: 220px;
+    height: 400px;
+    border-radius: 20px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    
+}
